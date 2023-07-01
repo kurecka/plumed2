@@ -1,0 +1,5 @@
+colvar/**
+core/**
+deps/**
+tools/**
+*.o
